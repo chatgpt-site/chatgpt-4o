@@ -1,4 +1,4 @@
-# ChatGPT中文版：国内免翻直接使用（支持 chatgpt 所有模型）【11/22】
+# ChatGPT中文版：国内ChatGPT中文版使用手册（支持 GPT-4o,o1 模型） 
 > 项目名：chatgpt
 > 更新时间：11/22
 
