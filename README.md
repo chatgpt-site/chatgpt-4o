@@ -1,9 +1,9 @@
-# ChatGPT中文版：国内ChatGPT中文版使用手册（支持 GPT-4o,o1 模型） 
-> 项目名：chatgpt
+# ChatGPT中文版：国内免翻直接使用（支持 chatgpt 所有模型）【11/22】
+> 项目名：chatgpt中文版
 > 更新时间：11/22
 
-**国内访问 ChatGPT中文版，支持 GPT-4 和多种功能应用！**  
-本手册汇总提供**ChatGPT中文版**使用方法，汇总整理了多个国内 **ChatGPT镜像网站**，帮助用户在正常网络环境下稳定访问 **ChatGPT**，满足个人学习、办公及专业需求。
+**轻松访问 ChatGPT中文版，无需翻墙，支持 GPT-4 和多种功能应用！**  
+本指南汇提供**ChatGPT中文版使用方法**，汇总整理了多个国内 **ChatGPT镜像网站**，帮助用户在正常网络环境下稳定访问 **ChatGPT**，满足个人学习、办公及专业需求。
 
 ---
 
@@ -22,7 +22,7 @@
 
 **ChatGPT中文版** 是指OpenAI为方便中国大陆用户访问和使用ChatGPT服务而设立的单独访问入口。这些镜像网站通常复制或重定向到OpenAI的官方ChatGPT平台，旨在解决由于网络限制或访问速度问题导致的使用障碍。然而，目前需要注意以下几点：
 
-1. **第三方ChatGPT中文版镜像网站**：
+1. **第三方镜像网站**：
    - 互联网中可能存在一些声称提供ChatGPT服务的第三方镜像网站。但使用这些非官方网站存在一定风险，包括数据隐私泄露、信息安全问题以及服务质量无法保障等。
    - 建议用户谨慎访问和使用这些第三方网站，避免在不信任的平台上输入敏感信息或进行重要对话。
 
@@ -72,4 +72,39 @@
   3. 根据需求选择GPT模型（GPT-4或mini）。
   4. 开始中文对话，支持翻译、写作、办公等功能。
 
-### ChatGPT官网注册
+### ChatGPT官网注册与使用
+1. 访问官网（需翻墙）：[https://chat.openai.com](https://chat.openai.com)。
+2. 注册账号需海外手机号和邮箱。
+3. 登录后可选择GPT-4或GPT-3.5。
+4. 开始对话体验OpenAI的智能回答。
+
+---
+
+## 常见问题解答
+- 中文版与官网不同在于优化服务与访问速度。
+- 中文版支持GPT-4o。
+- 部分镜像站提供免费使用。
+- 推荐的镜像网站经过基本的隐私检测，但避免输入敏感信息。
+
+---
+
+## 数据隐私与安全性说明
+- 避免输入敏感个人信息。
+- 优先选择HTTPS加密的网站以保证通信安全。
+
+---
+
+## 国内自研大模型汇总
+
+- [https://yiyan.baidu.com/](https://yiyan.baidu.com/) - 文心一言，百度出品
+- [https://tongyi.aliyun.com/](https://tongyi.aliyun.com/) - 通义千问，阿里出品
+- [https://techday.sensetime.com/](https://techday.sensetime.com/) - 商量，商汤科技出品
+- [https://tiangong.kunlun.com/](https://tiangong.kunlun.com/) - 天工 AI 助手，天工大模型
+- [https://xinghuo.xfyun.cn/](https://xinghuo.xfyun.cn/) - 讯飞星火认知大模型
+- [https://moss.fastnlp.top/](https://moss.fastnlp.top/) - Moss，复旦团队出品
+- [https://www.so.com/zt/invite.html](https://www.so.com/zt/invite.html) - 360 智脑，360 出品
+- [https://github.com/THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B 清华大学唐杰团队开发
+
+
+
+​
